@@ -1,0 +1,22 @@
+{
+  "name": "react-todo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "fetch": "^1.1.0",
+    "react": "^16.2.0",
+    "react-addons-update": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-scripts": "0.9.5",
+    "whatwg": "^2.0.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
