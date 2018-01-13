@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "day": "Monday",
+    "title": "children",
+    "description": "pick children up to school and daycare",
+    "color": "blue",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Sarah to school"
+      },
+      {
+        "id": 2,
+        "name": "Lucy to daycare"
+      },
+      {
+        "id": 3,
+        "name": "Deborah to school"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "day": "Tuesday",
+    "title": "children",
+    "description": "pick children up to school and daycare",
+    "color": "red",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Sarah to school"
+      },
+      {
+        "id": 2,
+        "name": "Louise to daycare"
+      },
+      {
+        "id": 3,
+        "name": "Deborah to school"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "day": "Wednesday",
+    "title": "children",
+    "description": "pick children up to school and daycare",
+    "color": "yellow",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Sarah to school"
+      },
+      {
+        "id": 2,
+        "name": "Louise to daycare"
+      },
+      {
+        "id": 3,
+        "name": "Deborah to school"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "day": "Thursday",
+    "title": "children",
+    "description": "pick children up to school and daycare",
+    "color": "green",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Sarah to school"
+      },
+      {
+        "id": 2,
+        "name": "Louise to daycare"
+      },
+      {
+        "id": 3,
+        "name": "Deborah to school"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "day": "Friday",
+    "title": "children",
+    "description": "pick children up to school and daycare",
+    "color": "orange",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Sarah to school"
+      },
+      {
+        "id": 2,
+        "name": "Louise to daycare"
+      },
+      {
+        "id": 3,
+        "name": "Deborah to school"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "day": "Tuesday",
+    "title": "music",
+    "description": "attend Sarah's violin classes at 2 pm",
+    "color": "black",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "take the violin"
+      },
+      {
+        "id": 2,
+        "name": "pack the notes and scripts"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "day": "Thursday",
+    "title": "music",
+    "description": "attend Sarahs violin classes at 1pm",
+    "color": "brown",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "take the violin"
+      },
+      {
+        "id": 2,
+        "name": "pack the notes and scripts"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "day": "Wednesday",
+    "title": "swimming pool",
+    "description": "take Louise to the swimming pool",
+    "color": "purple",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "take the uniform"
+      },
+      {
+        "id": 2,
+        "name": "pack the ticket"
+      },
+      {
+        "id": 3,
+        "name": "dont forget the dryer!"
+      }
+    ]
+  }
+]
